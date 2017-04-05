@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BoundedContexts/DomainClasses/bin/Debug
+/BoundedContexts/.vs/BoundedContexts/v14
+/BoundedContexts/MultipleContext/bin/Debug
+/BoundedContexts/MultipleContext/obj/Debug
+/BoundedContexts/MultipleContexts.DomainClasses/bin/Debug
+/BoundedContexts/MultipleContexts.DomainClasses/obj/Debug
+/BoundedContexts/packages/EntityFramework.6.1.3
+/BoundedContexts/SingleContext.DataLayer/bin/Debug
+/BoundedContexts/SingleContext.DataLayer/obj/Debug
+/BoundedContexts/SingleContext.UI/bin/Debug
+/BoundedContexts/SingleContext.UI/obj/Debug
+/BoundedContexts/SingleContextWithAggregateRoots.DataLayer/bin/Debug
+/BoundedContexts/SingleContextWithAggregateRoots.DataLayer/obj/Debug
+/BoundedContexts/SingleContextWithAggregateRoots.UI/bin/Debug
+/BoundedContexts/SingleContextWithAggregateRoots.UI/obj/Debug
+/BoundedContexts/Utils/bin/Debug
+/BoundedContexts/Utils/obj/Debug
+/BoundedContexts/DomainClasses/obj/Debug
