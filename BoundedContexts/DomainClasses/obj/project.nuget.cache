@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p6pOzihNmajWiRgIJ386WO6g/X4TWKEpNQyggjlU9sien6cRSllETLpa/swwP1kzMNHktgFzpGc9Gomat/MAbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\BoundedContexts\\DomainClasses\\DomainClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eng_w\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\eng_w\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\eng_w\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

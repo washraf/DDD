@@ -1,9 +1,14 @@
 ﻿using DomainClasses.Model.Enums;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DomainClasses.Model.ValueObjects
 {
     public class StudentEvaluation
     {
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [Key]
+        public int Id { get; set; }
         protected StudentEvaluation()
         {
 

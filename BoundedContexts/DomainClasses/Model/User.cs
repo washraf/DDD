@@ -25,8 +25,6 @@ namespace DomainClasses.Model
         {
             return Hashing.CreateMD5(PasswordStored).Equals(PasswordStored);
         }
-        public virtual ICollection<SystemPrivilage> CurrentPrivilages { set; get; }
-
         public string Name {set; get; }
         public string Email { set; get; }
         public DateTime BirthDate { get; set; }

@@ -1,0 +1,14 @@
+C:\Users\eng_w\source\repos\washraf\DDD\BoundedContexts\MultipleContexts\bin\Debug\netstandard2.0\MultipleContexts.deps.json
+C:\Users\eng_w\source\repos\washraf\DDD\BoundedContexts\MultipleContexts\bin\Debug\netstandard2.0\MultipleContexts.dll
+C:\Users\eng_w\source\repos\washraf\DDD\BoundedContexts\MultipleContexts\obj\Debug\netstandard2.0\MultipleContexts.AssemblyInfoInputs.cache
+C:\Users\eng_w\source\repos\washraf\DDD\BoundedContexts\MultipleContexts\obj\Debug\netstandard2.0\MultipleContexts.AssemblyInfo.cs
+C:\Users\eng_w\source\repos\washraf\DDD\BoundedContexts\MultipleContexts\obj\Debug\netstandard2.0\MultipleContexts.csprojAssemblyReference.cache
+C:\Users\eng_w\source\repos\washraf\DDD\BoundedContexts\MultipleContexts\bin\Debug\netstandard2.0\MultipleContexts.pdb
+C:\Users\eng_w\source\repos\washraf\DDD\BoundedContexts\MultipleContexts\bin\Debug\netstandard2.0\DomainClasses.dll
+C:\Users\eng_w\source\repos\washraf\DDD\BoundedContexts\MultipleContexts\bin\Debug\netstandard2.0\Utils.dll
+C:\Users\eng_w\source\repos\washraf\DDD\BoundedContexts\MultipleContexts\bin\Debug\netstandard2.0\DomainClasses.pdb
+C:\Users\eng_w\source\repos\washraf\DDD\BoundedContexts\MultipleContexts\bin\Debug\netstandard2.0\Utils.pdb
+C:\Users\eng_w\source\repos\washraf\DDD\BoundedContexts\MultipleContexts\obj\Debug\netstandard2.0\MultipleContexts.csproj.CopyComplete
+C:\Users\eng_w\source\repos\washraf\DDD\BoundedContexts\MultipleContexts\obj\Debug\netstandard2.0\MultipleContexts.dll
+C:\Users\eng_w\source\repos\washraf\DDD\BoundedContexts\MultipleContexts\obj\Debug\netstandard2.0\MultipleContexts.pdb
+C:\Users\eng_w\source\repos\washraf\DDD\BoundedContexts\MultipleContexts\obj\Debug\netstandard2.0\MultipleContexts.csproj.CoreCompileInputs.cache
