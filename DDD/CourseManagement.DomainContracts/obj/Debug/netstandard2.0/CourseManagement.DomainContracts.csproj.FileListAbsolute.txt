@@ -1,0 +1,16 @@
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\bin\Debug\netstandard2.0\CourseManagement.DomainContracts.deps.json
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\bin\Debug\netstandard2.0\CourseManagement.DomainContracts.dll
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\bin\Debug\netstandard2.0\CourseManagement.DomainContracts.pdb
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\bin\Debug\netstandard2.0\Common.SharedData.dll
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\bin\Debug\netstandard2.0\Common.Utils.dll
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\bin\Debug\netstandard2.0\CourseManagement.DomainEntities.dll
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\bin\Debug\netstandard2.0\Common.Utils.pdb
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\bin\Debug\netstandard2.0\CourseManagement.DomainEntities.pdb
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\bin\Debug\netstandard2.0\Common.SharedData.pdb
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\obj\Debug\netstandard2.0\CourseManagement.DomainContracts.csprojAssemblyReference.cache
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\obj\Debug\netstandard2.0\CourseManagement.DomainContracts.csproj.CoreCompileInputs.cache
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\obj\Debug\netstandard2.0\CourseManagement.DomainContracts.AssemblyInfoInputs.cache
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\obj\Debug\netstandard2.0\CourseManagement.DomainContracts.AssemblyInfo.cs
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\obj\Debug\netstandard2.0\CourseManagement.DomainContracts.csproj.CopyComplete
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\obj\Debug\netstandard2.0\CourseManagement.DomainContracts.dll
+C:\Users\eng_w\source\repos\washraf\DDD\DDD\CourseManagement.DomainContracts\obj\Debug\netstandard2.0\CourseManagement.DomainContracts.pdb

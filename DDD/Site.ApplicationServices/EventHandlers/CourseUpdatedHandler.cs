@@ -6,14 +6,11 @@ using System.Text;
 using System.Threading.Tasks;
 using Common.SharedData.Events.CourseMangement;
 using Common.Utils.Events;
-using Site.DataSource.Context;
-using Site.DataSource.Repositories;
-using Site.DomainContracts;
+
 
 namespace Site.ApplicationServices.EventHandlers
 {
-    public class CourseUpdatedHandler : 
-        IDomainHandler<CourseUpdatedEvent>
+    public class CourseUpdatedHandler : IDomainHandler<CourseUpdatedEvent>
     {
         public void Handle(CourseUpdatedEvent args)
         {

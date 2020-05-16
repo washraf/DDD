@@ -1,10 +1,9 @@
 using System;
-using System.Data.Entity;
-using System.Data.Entity.Migrations;
 using System.Linq;
 using System.Linq.Expressions;
 using Common.Utils.Repository.Exceptions;
 using Common.Utils.UnitOfWork;
+using Microsoft.EntityFrameworkCore;
 
 namespace Common.Utils.Repository
 {
@@ -58,7 +57,7 @@ namespace Common.Utils.Repository
         public void Update(TEntityType entity)
         {
             _currentSet.Attach(entity);
-            _currentSet.AddOrUpdate(entity);
+            _currentSet.Update(entity);
             _unitOfWork.Commit();
 
         }

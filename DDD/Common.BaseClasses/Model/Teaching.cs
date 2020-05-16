@@ -1,8 +1,7 @@
 ﻿
+using Common.SharedData.Model.Enums;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using Common.BaseClasses.Model;
-using Common.SharedData.Model.Enums;
 
 namespace Common.BaseClasses.Model
 {

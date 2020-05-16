@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p6pOzihNmajWiRgIJ386WO6g/X4TWKEpNQyggjlU9sien6cRSllETLpa/swwP1kzMNHktgFzpGc9Gomat/MAbw==",
+  "dgSpecHash": "7EJeqj18a9xn7ZAs+uShwU5cMtER8KILAd5St9q0XP6J1DsfS6vm3xGbV326iiDGWY+/eWEWu1DJH7mZmjJ5kA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\BoundedContexts\\DomainClasses\\DomainClasses.csproj",
+  "projectFilePath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\BoundedContexts\\DomainClasses\\DomainClasses.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eng_w\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\eng_w\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -5,11 +5,10 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Common.BaseClasses.Model;
 
 namespace Common.BaseClasses.Model
 {
-    [Table("Employees")]
+    [Table(nameof(Employee))]
     internal class Employee:User
     {
         public Department MainDepartment { set; get; }

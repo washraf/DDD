@@ -4,9 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using CourseManagement.ApplicationServices.Contracts;
-using CourseManagement.DataSource.UnitOfWork;
+using CourseManagement.DomainContracts;
 using CourseManagement.DomainEntities.Model;
-using CoursesManagement.DomainContracts;
 
 namespace CourseManagement.ApplicationServices.Implementation
 {

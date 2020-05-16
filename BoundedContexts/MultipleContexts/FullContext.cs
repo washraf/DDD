@@ -16,5 +16,7 @@ namespace MultipleContext
         //public DbSet<StudentSubcription> StudentSubcriptions { set; get; }
         //public DbSet<Teaching> Teachings { set; get; }
         public DbSet<User> Users { set; get; }
+
+        public DbSet<CourseIntake> CourseIntakes { get; set; }
     }
 }

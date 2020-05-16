@@ -5081,11 +5081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\BoundedContexts\\SingleContext.UI\\SingleContext.UI.csproj",
+      "projectUniqueName": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\BoundedContexts\\SingleContext.UI\\SingleContext.UI.csproj",
       "projectName": "SingleContext.UI",
-      "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\BoundedContexts\\SingleContext.UI\\SingleContext.UI.csproj",
+      "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\BoundedContexts\\SingleContext.UI\\SingleContext.UI.csproj",
       "packagesPath": "C:\\Users\\eng_w\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\BoundedContexts\\SingleContext.UI\\obj\\",
+      "outputPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\BoundedContexts\\SingleContext.UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eng_w\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5101,8 +5101,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\BoundedContexts\\SingleContext.DataLayer\\SingleContext.DataLayer.csproj": {
-              "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\BoundedContexts\\SingleContext.DataLayer\\SingleContext.DataLayer.csproj"
+            "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\BoundedContexts\\SingleContext.DataLayer\\SingleContext.DataLayer.csproj": {
+              "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\BoundedContexts\\SingleContext.DataLayer\\SingleContext.DataLayer.csproj"
             }
           }
         }

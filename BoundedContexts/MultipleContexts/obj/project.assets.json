@@ -6231,11 +6231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\BoundedContexts\\MultipleContexts\\MultipleContexts.csproj",
+      "projectUniqueName": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\BoundedContexts\\MultipleContexts\\MultipleContexts.csproj",
       "projectName": "MultipleContexts",
-      "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\BoundedContexts\\MultipleContexts\\MultipleContexts.csproj",
+      "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\BoundedContexts\\MultipleContexts\\MultipleContexts.csproj",
       "packagesPath": "C:\\Users\\eng_w\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\BoundedContexts\\MultipleContexts\\obj\\",
+      "outputPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\BoundedContexts\\MultipleContexts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eng_w\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6251,8 +6251,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\BoundedContexts\\DomainClasses\\DomainClasses.csproj": {
-              "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\BoundedContexts\\DomainClasses\\DomainClasses.csproj"
+            "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\BoundedContexts\\DomainClasses\\DomainClasses.csproj": {
+              "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\BoundedContexts\\DomainClasses\\DomainClasses.csproj"
             }
           }
         }

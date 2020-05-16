@@ -1,9 +1,14 @@
 ﻿using Common.SharedData.Model.Enums;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Common.BaseClasses.Model.ValueObjects
 {
-    public class CourseEvaluation
+    internal class CourseEvaluation
     {
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [Key]
+        public int Id { get; set; }
         protected CourseEvaluation()
         {
             

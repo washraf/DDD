@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BoundedContexts",
+    "\\DDD_old"
   ],
-  "SelectedNode": "\\DDD",
+  "SelectedNode": "\\DDD_old\\DDD_old.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -15,8 +15,8 @@ namespace Site.DomainEntities.Model
         public int CourseId { protected set; get; }
         public string CourseName { set; get; }
         public int CourseDays { set; get; }
-        public string CourseDescription { set; get; }
-        public virtual ICollection<CourseIntake> Intakes { set; get; }
+        //public string CourseDescription { set; get; }
+        //public virtual ICollection<CourseIntake> Intakes { set; get; }
         //public virtual ICollection<Lesson> Lessons { set; get; }
     }
 }

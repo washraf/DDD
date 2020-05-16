@@ -26,12 +26,13 @@ namespace SingleContext.DataLayer.Context
 
             modelBuilder.Entity<StudentSubcription>().HasKey(c => new { c.IntakeId, c.StudentId });
             modelBuilder.Entity<Teaching>().HasKey(c => new { c.IntakeId, c.InstructorId });
-            base.OnModelCreating(modelBuilder);
             var daysConvertor = new ValueConverter<List<Days>, string>(
                 v => String.Join(",", v.Cast<int>().ToList().Select(x => x.ToString())),
                 v => v.Split(',').Select(x => (Days)Int32.Parse(x)).ToList());
+
             modelBuilder.Entity<CourseIntake>().Property(x => x.ClassDays).HasConversion(daysConvertor);
 
+            base.OnModelCreating(modelBuilder);
         }
 
 

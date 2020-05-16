@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Common.Utils;
 using Common.Utils.Security;
 
 namespace Common.BaseClasses.Model
@@ -25,8 +26,6 @@ namespace Common.BaseClasses.Model
         {
             return Hashing.CreateMD5(PasswordStored).Equals(PasswordStored);
         }
-        public virtual ICollection<SystemPrivilage> CurrentPrivilages { set; get; }
-
         public string Name {set; get; }
         public string Email { set; get; }
         public DateTime BirthDate { get; set; }

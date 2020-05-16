@@ -90,7 +90,7 @@ namespace MultipleContexts.Migrations
 
                     b.HasIndex("ToughtCourseCourseId");
 
-                    b.ToTable("Intakes");
+                    b.ToTable("CourseIntake");
                 });
 
             modelBuilder.Entity("DomainClasses.Model.Department", b =>

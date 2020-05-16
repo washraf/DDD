@@ -5,7 +5,6 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Common.BaseClasses.Model;
 using Common.BaseClasses.Model.ValueObjects;
 
 namespace Common.BaseClasses.Model

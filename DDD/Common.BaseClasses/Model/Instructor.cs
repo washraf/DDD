@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace Common.BaseClasses.Model
 {
-    [Table("Instructors")]
+    [Table(nameof(Instructor))]
     internal class Instructor:Employee
     {
         public int HourRate { set; get; }
 
-        public virtual ICollection<Speciality> Specialties { set; get; }
+        public string Skills { set; get; }
         public virtual ICollection<Teaching> InstructorTeachings { set; get; }
     }
 }

@@ -12,7 +12,7 @@ namespace CourseManagement.DomainEntities.Model
     {
         public int HourRate { set; get; }
 
-        public virtual ICollection<Speciality> Specialties { set; get; }
+        public virtual string Skills { set; get; }
         public virtual ICollection<Teaching> InstructorTeachings { set; get; }
     }
 }
