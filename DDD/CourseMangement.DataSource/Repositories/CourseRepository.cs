@@ -7,6 +7,7 @@ using Common.Utils.Repository;
 using CourseManagement.DataSource.UnitOfWork;
 using CourseManagement.DomainEntities.Model;
 using CourseManagement.DomainContracts;
+using CourseManagement.DomainEntities.Model.CourseAggregate;
 
 namespace CourseManagement.DataSource.Repositories
 {

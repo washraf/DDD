@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using CourseManagement.ApplicationServices.Contracts;
 using CourseManagement.DomainContracts;
-using CourseManagement.DomainEntities.Model;
+using CourseManagement.DomainEntities.Model.CourseAggregate;
+using CourseManagement.DomainEntities.Model.CourseIntakeAggregate;
 
 namespace CourseManagement.ApplicationServices.Implementation
 {
@@ -31,8 +32,8 @@ namespace CourseManagement.ApplicationServices.Implementation
 
         public void AddCourseIntake(int courseId, CourseIntake intake)
         {
-            var course = _courseRepository.Get(x => x.CourseId == courseId).Single();
-            course.Intakes.Add(intake);
+            var course = _courseRepository.Get(x => x.Id == courseId).Single();
+            course.CourseIntakes.Add(intake);
             _courseRepository.Update(course);
         }
 
@@ -52,7 +53,7 @@ namespace CourseManagement.ApplicationServices.Implementation
 
         public List<CourseIntake> GetAllCourseIntakes(int courseId)
         {
-            return _courseRepository.Get(x => x.CourseId == courseId).Single().Intakes.ToList();
+            return _courseRepository.Get(x => x.Id == courseId).Single().CourseIntakes.ToList();
         }
     }
 }

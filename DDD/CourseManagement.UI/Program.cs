@@ -15,7 +15,7 @@ namespace CourseManagement.UI
             var courses = manager.GetAllCourses();
             foreach (var course in courses)
             {
-                Console.WriteLine($"{course.CourseId}: {course.CourseName}" );
+                Console.WriteLine($"{course.Id}: {course.CourseName}" );
 
             }
         }

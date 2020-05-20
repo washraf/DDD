@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\BoundedContexts",
-    "\\DDD_old"
+    "\\BoundedContexts\\DomainClasses"
   ],
-  "SelectedNode": "\\DDD_old\\DDD_old.sln",
+  "SelectedNode": "\\BoundedContexts\\BoundedContexts.sln",
   "PreviewInSolutionExplorer": false
 }

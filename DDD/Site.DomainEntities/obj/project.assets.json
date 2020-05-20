@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
+      "FluentValidation/8.6.2": {
+        "type": "package",
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.4.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "type": "package",
         "dependencies": {
@@ -1709,6 +1721,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "FluentValidation": "8.6.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.4"
         },
         "compile": {
@@ -1721,6 +1734,25 @@
     }
   },
   "libraries": {
+    "FluentValidation/8.6.2": {
+      "sha512": "N2vz+f6pAX9AI19hu83U2LJjjc/ETzWGlICVanu3DIG76QhzEu3PR/CQSFBX69PRuBTivrW4jhBzeV7dXIfqyw==",
+      "type": "package",
+      "path": "fluentvalidation/8.6.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluentvalidation.8.6.2.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net45/FluentValidation.dll",
+        "lib/net45/FluentValidation.xml",
+        "lib/netstandard1.1/FluentValidation.dll",
+        "lib/netstandard1.1/FluentValidation.xml",
+        "lib/netstandard1.6/FluentValidation.dll",
+        "lib/netstandard1.6/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml"
+      ]
+    },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "sha512": "yuvf07qFWFqtK3P/MRkEKLhn5r2UbSpVueRziSqj0yJQIKFwG1pq9mOayK3zE5qZCTs0CbrwL9M6R8VwqyGy2w==",
       "type": "package",
@@ -6233,11 +6265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj",
+      "projectUniqueName": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj",
       "projectName": "Site.DomainEntities",
-      "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj",
+      "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj",
       "packagesPath": "C:\\Users\\eng_w\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\obj\\",
+      "outputPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eng_w\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6253,11 +6285,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj": {
-              "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj"
+            "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj": {
+              "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj"
             },
-            "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj": {
-              "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj"
+            "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj": {
+              "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj"
             }
           }
         }

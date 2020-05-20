@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using CourseManagement.DomainEntities.Model;
+using CourseManagement.DomainEntities.Model.CourseAggregate;
+using CourseManagement.DomainEntities.Model.CourseIntakeAggregate;
 
 namespace CourseManagement.ApplicationServices.Contracts
 {

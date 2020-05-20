@@ -10,12 +10,18 @@ using Site.DomainEntities.Model;
 
 namespace Site.DataSource.Context
 {
-    public class SiteContext : BaseContext<SiteContext>,ISiteUnitOfWork
+    public class SiteContext : BaseContext,ISiteUnitOfWork
     {
-        public DbSet<CenterEvent> Events { set; get; }
-        public DbSet<Course> Courses { set; get; }
-        public DbSet<CourseIntake> Intakes { set; get; }
-        public DbSet<User> Users { set; get; }
-        
+        public DbSet<CenterEvent> CenterEvents { set; get; }
+        /// <summary>
+        /// ReadOnly Don't Include In Migrations
+        /// </summary>
+        //public DbSet<Course> Courses { set; get; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<CourseIntake>(e => e.ToTable("CourseIntakes"));
+            base.OnModelCreating(modelBuilder);
+        }
     }
 }

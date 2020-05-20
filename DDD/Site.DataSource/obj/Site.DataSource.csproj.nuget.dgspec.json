@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DataSource\\Site.DataSource.csproj": {}
+    "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DataSource\\Site.DataSource.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.BaseClasses\\Common.BaseClasses.csproj": {
+    "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.BaseClasses\\Common.BaseClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.BaseClasses\\Common.BaseClasses.csproj",
+        "projectUniqueName": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.BaseClasses\\Common.BaseClasses.csproj",
         "projectName": "Common.BaseClasses",
-        "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.BaseClasses\\Common.BaseClasses.csproj",
+        "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.BaseClasses\\Common.BaseClasses.csproj",
         "packagesPath": "C:\\Users\\eng_w\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.BaseClasses\\obj\\",
+        "outputPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.BaseClasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eng_w\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj": {
-                "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj"
+              "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj": {
+                "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj"
               },
-              "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj": {
-                "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj"
+              "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj": {
+                "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj": {
+    "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj",
+        "projectUniqueName": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj",
         "projectName": "Common.SharedData",
-        "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj",
+        "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj",
         "packagesPath": "C:\\Users\\eng_w\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.SharedData\\obj\\",
+        "outputPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.SharedData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eng_w\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +93,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj": {
-                "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj"
+              "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj": {
+                "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj"
               }
             }
           }
@@ -129,14 +129,14 @@
         }
       }
     },
-    "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj": {
+    "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj",
+        "projectUniqueName": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj",
         "projectName": "Common.Utils",
-        "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj",
+        "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj",
         "packagesPath": "C:\\Users\\eng_w\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\obj\\",
+        "outputPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eng_w\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -163,6 +163,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.4, )"
@@ -188,14 +192,14 @@
         }
       }
     },
-    "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DataSource\\Site.DataSource.csproj": {
+    "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DataSource\\Site.DataSource.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DataSource\\Site.DataSource.csproj",
+        "projectUniqueName": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DataSource\\Site.DataSource.csproj",
         "projectName": "Site.DataSource",
-        "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DataSource\\Site.DataSource.csproj",
+        "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DataSource\\Site.DataSource.csproj",
         "packagesPath": "C:\\Users\\eng_w\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DataSource\\obj\\",
+        "outputPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DataSource\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eng_w\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -211,17 +215,17 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.BaseClasses\\Common.BaseClasses.csproj": {
-                "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.BaseClasses\\Common.BaseClasses.csproj"
+              "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.BaseClasses\\Common.BaseClasses.csproj": {
+                "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.BaseClasses\\Common.BaseClasses.csproj"
               },
-              "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj": {
-                "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj"
+              "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj": {
+                "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj"
               },
-              "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj": {
-                "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj"
+              "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj": {
+                "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj"
               },
-              "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Sute.DomainContracts\\Sute.DomainContracts.csproj": {
-                "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Sute.DomainContracts\\Sute.DomainContracts.csproj"
+              "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Sute.DomainContracts\\Sute.DomainContracts.csproj": {
+                "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Sute.DomainContracts\\Sute.DomainContracts.csproj"
               }
             }
           }
@@ -260,14 +264,14 @@
         }
       }
     },
-    "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj": {
+    "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj",
+        "projectUniqueName": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj",
         "projectName": "Site.DomainEntities",
-        "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj",
+        "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj",
         "packagesPath": "C:\\Users\\eng_w\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\obj\\",
+        "outputPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eng_w\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -283,11 +287,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj": {
-                "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj"
+              "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj": {
+                "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.SharedData\\Common.SharedData.csproj"
               },
-              "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj": {
-                "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj"
+              "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj": {
+                "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj"
               }
             }
           }
@@ -326,14 +330,14 @@
         }
       }
     },
-    "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Sute.DomainContracts\\Sute.DomainContracts.csproj": {
+    "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Sute.DomainContracts\\Sute.DomainContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Sute.DomainContracts\\Sute.DomainContracts.csproj",
+        "projectUniqueName": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Sute.DomainContracts\\Sute.DomainContracts.csproj",
         "projectName": "Sute.DomainContracts",
-        "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Sute.DomainContracts\\Sute.DomainContracts.csproj",
+        "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Sute.DomainContracts\\Sute.DomainContracts.csproj",
         "packagesPath": "C:\\Users\\eng_w\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Sute.DomainContracts\\obj\\",
+        "outputPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Sute.DomainContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eng_w\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -349,11 +353,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj": {
-                "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj"
+              "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj": {
+                "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Common.Utils\\Common.Utils.csproj"
               },
-              "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj": {
-                "projectPath": "C:\\Users\\eng_w\\Source\\Repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj"
+              "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj": {
+                "projectPath": "C:\\Users\\eng_w\\source\\repos\\washraf\\DDD\\DDD\\Site.DomainEntities\\Site.DomainEntities.csproj"
               }
             }
           }

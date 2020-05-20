@@ -2,6 +2,7 @@
 using Site.DataSource.Repositories;
 using Site.DomainContracts;
 using System;
+using System.Linq;
 
 namespace Site.UI
 {
@@ -10,10 +11,10 @@ namespace Site.UI
         static void Main(string[] args)
         {
             ICourseIntakeRepository repository = new CourseIntakeRepository(new SiteContext());
-            var x = repository.Get();
-            foreach (var VARIABLE in x)
+            var intakes = repository.Get().ToList();
+            foreach (var intake in intakes)
             {
-                Console.WriteLine(VARIABLE.ClassTime);
+                Console.WriteLine(intake.StartDateTime);
             }
         }
     }
